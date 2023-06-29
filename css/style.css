@@ -1,0 +1,79 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+
+
+.navbar-brand{
+    width: 125px;
+}
+
+.section-2{
+    background-color: hsl(240, 75%, 98%);
+}
+
+.curve{
+    width: 100%;
+}
+
+.name-1{
+    font-size: 14px;
+}
+
+.name{
+    font-size: 12px;
+}
+
+.founder{
+    width: 40px;
+    height: 40px;
+}
+
+.section-3{
+    background-color: hsl(238, 22%, 44%);
+}
+
+.light-text{
+    opacity: 80%;
+}
+
+.section-4{
+    background-color: hsl(243, 87%, 12%);
+}
+
+.logo-white{
+    filter: brightness(0) invert(1);
+    width: 125px;
+}
+
+.card{
+    width: 75%;
+}
+
+.input{
+    width: 40%;
+}
+
+.text{
+    width: 40%;
+}
+
+@media(max-width: 768px){
+    button{
+        width: 100%;
+    }
+
+    .card{
+        width: 100%;
+    }
+
+    .input{
+        width: 100%;
+    }
+
+    .text{
+        width: 100%;
+    }
+}
