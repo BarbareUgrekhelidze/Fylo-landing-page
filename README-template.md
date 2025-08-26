@@ -41,4 +41,4 @@ Users should be able to:
 ## Author
 
 - Website - [Fylo Landing Page](https://BarbareUgrekhelidze.github.io/Fylo-landing-page/)
-- Frontend Mentor - [@barbare999](https://www.frontendmentor.io/settings)
+- Frontend Mentor - [@BarbareUgrekhelidze](https://www.frontendmentor.io/profile/BarbareUgrekhelidze)
